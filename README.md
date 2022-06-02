@@ -1,0 +1,1 @@
+This repository contains source images, scripts, contracts, and frontend code used for the Hentaitown NFTs ([website](http://www.hentaitown.wtf/), [OpenSea](https://opensea.io/collection/hentaitown-nft)).
